@@ -7,9 +7,9 @@ A lightweight, real-time transcription tool using the **Whisper Tiny model** opt
 
 ![output](output.jpeg)
 
-![output](output_1.jpeg)
-
 ![output](output_2.jpeg)
+
+![output](output_3.jpeg)
 
 ## ✨ Features
 
