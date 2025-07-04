@@ -39,7 +39,7 @@ A lightweight, real-time transcription tool using the **Whisper Tiny model** opt
    ```bash
    git clone https://github.com/yourusername/whisper-tflite-transcription.git
    cd whisper-tflite-transcription
-````
+
 
 2. **Install dependencies:**
 
